@@ -12,4 +12,5 @@ with PyTessBaseAPI(lang='por') as api:
     for r in iterate_level(ri, level):
         symbol = r.GetUTF8Text(level)  # r == ri
         conf = r.Confidence(level)
+        print(symbol, end='')
     print(api.GetUTF8Text())
