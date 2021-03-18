@@ -10,7 +10,7 @@ kraken==0.9.16
 lxml==4.2.4
 MarkupSafe==1.0
 numpy==1.15.1
-Pillow==5.2.0
+Pillow==8.1.1
 protobuf==3.6.1
 pytesseract==0.2.4
 python-bidi==0.4.0
