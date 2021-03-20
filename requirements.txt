@@ -5,7 +5,7 @@ clstm==0.0.5
 future==0.16.0
 idna==2.7
 img2pdf==0.3.1
-Jinja2==2.10
+Jinja2==2.11.3
 kraken==0.9.16
 lxml==4.2.4
 MarkupSafe==1.0
